@@ -2,8 +2,8 @@
 Minggu ke-: X  
 Topik: [judul praktikum]  
 Nama: Ayunita 
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
+NIM: 230202739  
+Kelas: 5IKRB  
 
 ---
 
