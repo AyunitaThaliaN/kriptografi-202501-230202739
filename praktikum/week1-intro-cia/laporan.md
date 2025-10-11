@@ -32,7 +32,8 @@ o	Contoh: Situs web perbankan harus online 24/7. Mereka menggunakan server cadan
 •	DSA (Digital Signature Algorithm): Standar yang digunakan oleh pemerintah AS untuk membuat tanda tangan digital.
 
 3.Apa perbedaan utama antara kriptografi klasik dan kriptografi modern ?
- Perbedaan utama anatara kriptografi klasik dan kriptografi modern terletak pada basis keamanan,kompleksitas, dan prinsip dasarnya. 
+ Perbedaan utama anatara kriptografi klasik dan kriptografi modern terletak pada basis keamanan,kompleksitas, dan prinsip dasarnya.
+ 
 a.	Kriptografi klasik berfokus pada manipulasi karakter dan Bahasa menggunakan metode substitusi dan transposisi, dengan proses yang relatif sederhana dan dapat dilakukan secara manual. Keamanannya bergantung pada kerahasiaan algoritma yang digunakan.
 
 b.	Kriptografi modern didasarkan pada matematika kompleks serta manipulasi data biner (bit), dan memerlukan komputer untuk melakukan perhitungan yang rumit. Prinsip keamanannya bergantung pada kerahasiaan kunci sesuai Prinsip Kerckhoffs, bukan pada algoritmanya. Selain itu, kriptografi modern memperkenalkan penggunaan kunci simetris seperti AES dan kunci asimetris/publik seperti RSA dan ECC, yang membuat sistemnya lebih aman dan efisien dibandingkan kriptografi klasik.
