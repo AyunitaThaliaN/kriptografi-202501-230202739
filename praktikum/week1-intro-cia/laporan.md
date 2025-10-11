@@ -24,11 +24,13 @@ o	Contoh: Situs web perbankan harus online 24/7. Mereka menggunakan server cadan
  Jawaban Soal Quiz
 1.  Siapa tokoh yang dianggap sebagai bapak kriptografi modern?
  Tokoh yang dianggap sebagai bapak kriptografi modern adalah Claude Shannon. Melalui makalahnya yang monumental pada tahun 1949, "Communication Theory of Secrecy Systems," ia meletakkan fondasi matematis dan teoretis untuk kriptografi, mengubahnya dari sekadar seni menjadi sebuah ilmu pasti.
-2. Sebutkan algoritma kunci publik yang populer digunakan saat ini
+
+3. Sebutkan algoritma kunci publik yang populer digunakan saat ini
 •	RSA (Rivest-Shamir-Adleman): Digunakan secara luas untuk enkripsi dan tanda tangan digital, terutama dalam protokol keamanan web seperti TLS/SSL.
 •	ECC (Elliptic Curve Cryptography): Menawarkan tingkat keamanan yang sama dengan RSA tetapi dengan ukuran kunci yang jauh lebih kecil, membuatnya sangat efisien untuk perangkat dengan sumber daya terbatas seperti smartphone.
 •	Diffie-Hellman Key Exchange: Sebuah metode untuk dua pihak yang tidak saling kenal untuk secara aman menyepakati kunci rahasia bersama melalui saluran komunikasi yang tidak aman.
 •	DSA (Digital Signature Algorithm): Standar yang digunakan oleh pemerintah AS untuk membuat tanda tangan digital.
+
 3.Apa perbedaan utama antara kriptografi klasik dan kriptografi modern ?
  Perbedaan utama anatara kriptografi klasik dan kriptografi modern terletak pada basis keamanan,kompleksitas, dan prinsip dasarnya. 
 a.	Kriptografi klasik berfokus pada manipulasi karakter dan Bahasa menggunakan metode substitusi dan transposisi, dengan proses yang relatif sederhana dan dapat dilakukan secara manual. Keamanannya bergantung pada kerahasiaan algoritma yang digunakan.
