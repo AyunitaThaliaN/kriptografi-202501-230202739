@@ -5,11 +5,6 @@ Nama: Ayunita
 NIM: 230202739  
 Kelas: 5IKRB  
 
-1. Tujuan
-Menjelaskan sejarah dan evolusi kriptografi dari masa klasik hingga modern.
-Menyebutkan prinsip Confidentiality, Integrity, Availability (CIA) dengan benar.
-Menyimpulkan peran kriptografi dalam sistem keamanan informasi modern.
-Menyiapkan repositori GitHub sebagai media kerja praktikum.
 
 Soal 1. Ringkasan Sejarah Kriptografi cryptography
 •	Babak Klasik (Zaman Dulu): Awalnya, kriptografi itu seperti mainan teka-teki huruf. Ada Caesar Cipher yang cuma menggeser-geser urutan alfabet—sangat gampang ditebak. Lalu ada Vigenère Cipher yang lebih canggih karena pakai kata kunci, jadi lebih sulit dipecahkan. Puncaknya adalah mesin Enigma di Perang Dunia II, sebuah alat mekanis rumit yang akhirnya berhasil dijinakkan oleh Alan Turing. Intinya, di era ini keamanan bergantung pada kerahasiaan metodenya.
