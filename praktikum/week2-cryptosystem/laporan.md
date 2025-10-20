@@ -75,7 +75,7 @@ Diagram tersebut menggambarkan proses dasar kerja kriptosistem, di mana pesan as
 Hasil eksekusi program Caesar Cipher: 
 
 <<<<<<< HEAD
-![Hasil Eksekusi](screenshots/output.png)
+![Hasil Eksekusi](Screenshots/Eksekusi.png)
 ![Hasil Input](Screenshots/Skema_Kriptosistem.png)
 ![Hasil Output](screenshots/output.png)
 )
