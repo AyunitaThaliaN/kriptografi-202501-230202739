@@ -5,6 +5,7 @@ Nama: Ayunita Thalia Nugraheni
 NIM: 230202739  
 Kelas: 5IKRB  
 
+
 Soal 1. Ringkasan Sejarah Kriptografi cryptography
 •	Babak Klasik (Zaman Dulu): Awalnya, kriptografi itu seperti mainan teka-teki huruf. Ada Caesar Cipher yang cuma menggeser-geser urutan alfabet—sangat gampang ditebak. Lalu ada Vigenère Cipher yang lebih canggih karena pakai kata kunci, jadi lebih sulit dipecahkan. Puncaknya adalah mesin Enigma di Perang Dunia II, sebuah alat mekanis rumit yang akhirnya berhasil dijinakkan oleh Alan Turing. Intinya, di era ini keamanan bergantung pada kerahasiaan metodenya.
 •	Babak Modern (Era Komputer): Sejak ada komputer, kriptografi beralih dari seni menjadi ilmu matematika. Prinsipnya berubah: metodenya boleh terbuka, yang penting kuncinya rahasia.
@@ -23,13 +24,16 @@ o	Contoh: Situs web perbankan harus online 24/7. Mereka menggunakan server cadan
  Jawaban Soal Quiz
 1.  Siapa tokoh yang dianggap sebagai bapak kriptografi modern?
  Tokoh yang dianggap sebagai bapak kriptografi modern adalah Claude Shannon. Melalui makalahnya yang monumental pada tahun 1949, "Communication Theory of Secrecy Systems," ia meletakkan fondasi matematis dan teoretis untuk kriptografi, mengubahnya dari sekadar seni menjadi sebuah ilmu pasti.
-2. Sebutkan algoritma kunci publik yang populer digunakan saat ini
+
+3. Sebutkan algoritma kunci publik yang populer digunakan saat ini
 •	RSA (Rivest-Shamir-Adleman): Digunakan secara luas untuk enkripsi dan tanda tangan digital, terutama dalam protokol keamanan web seperti TLS/SSL.
 •	ECC (Elliptic Curve Cryptography): Menawarkan tingkat keamanan yang sama dengan RSA tetapi dengan ukuran kunci yang jauh lebih kecil, membuatnya sangat efisien untuk perangkat dengan sumber daya terbatas seperti smartphone.
 •	Diffie-Hellman Key Exchange: Sebuah metode untuk dua pihak yang tidak saling kenal untuk secara aman menyepakati kunci rahasia bersama melalui saluran komunikasi yang tidak aman.
 •	DSA (Digital Signature Algorithm): Standar yang digunakan oleh pemerintah AS untuk membuat tanda tangan digital.
+
 3.Apa perbedaan utama antara kriptografi klasik dan kriptografi modern ?
- Perbedaan utama anatara kriptografi klasik dan kriptografi modern terletak pada basis keamanan,kompleksitas, dan prinsip dasarnya. 
+ Perbedaan utama anatara kriptografi klasik dan kriptografi modern terletak pada basis keamanan,kompleksitas, dan prinsip dasarnya.
+ 
 a.	Kriptografi klasik berfokus pada manipulasi karakter dan Bahasa menggunakan metode substitusi dan transposisi, dengan proses yang relatif sederhana dan dapat dilakukan secara manual. Keamanannya bergantung pada kerahasiaan algoritma yang digunakan.
 
 b.	Kriptografi modern didasarkan pada matematika kompleks serta manipulasi data biner (bit), dan memerlukan komputer untuk melakukan perhitungan yang rumit. Prinsip keamanannya bergantung pada kerahasiaan kunci sesuai Prinsip Kerckhoffs, bukan pada algoritmanya. Selain itu, kriptografi modern memperkenalkan penggunaan kunci simetris seperti AES dan kunci asimetris/publik seperti RSA dan ECC, yang membuat sistemnya lebih aman dan efisien dibandingkan kriptografi klasik.

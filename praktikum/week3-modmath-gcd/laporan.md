@@ -8,30 +8,32 @@ Kelas: [Kelas]
 ---
 
 ## 1. Tujuan
-(Tuliskan tujuan pembelajaran praktikum sesuai modul.)
+1. Menyelesaikan operasi aritmetika modular.
+2. Menentukan bilangan prima dan menghitung GCD (Greatest Common Divisor).
+3. Menerapkan logaritma diskrit sederhana dalam simulasi kriptografi.
 
 ---
 
 ## 2. Dasar Teori
-(Ringkas teori relevan (cukup 2–3 paragraf).  
-Contoh: definisi cipher klasik, konsep modular aritmetika, dll.  )
+Logaritma diskrit adalah konsep matematika yang mencari berapa kali suatu bilangan harus dikalikan dengan dirinya sendiri untuk menghasilkan bilangan lain dalam sistem tertentu. Nilainya sulit dihitung, terutama pada bilangan besar, sehingga sering digunakan dalam kriptografi.
 
+Kesulitannya membuat logaritma diskrit menjadi dasar keamanan sistem seperti Diffie-Hellman dan ElGamal, karena mudah dihitung satu arah tetapi hampir mustahil dibalik, sehingga efektif melindungi data dan kunci rahasia.
 ---
 
 ## 3. Alat dan Bahan
-(- Python 3.x  
-- Visual Studio Code / editor lain  
+- Python   
+- Visual Studio Code   
 - Git dan akun GitHub  
-- Library tambahan (misalnya pycryptodome, jika diperlukan)  )
-
 ---
 
-## 4. Langkah Percobaan
-(Tuliskan langkah yang dilakukan sesuai instruksi.  
-Contoh format:
-1. Membuat file `caesar_cipher.py` di folder `praktikum/week2-cryptosystem/src/`.
-2. Menyalin kode program dari panduan praktikum.
-3. Menjalankan program dengan perintah `python caesar_cipher.py`.)
+## 4. Langkah Percobaan  
+1. Membuat struktur folder praktikum/week3-modmath-gcd/src/ dan file modular_math.py.
+2. Tambahkan fungsi-fungsi aritmetika modular seperti mod_add, mod_sub, mod_mul, dan mod_exp.
+3. Mengimplementasikan algoritma Euclidean buat nyari nilai GCD.
+4. Mengimplementasikan dengan Extended Euclidean Algorithm (egcd) dan bikin juga fungsi invers modular (modinv).
+5. Tambahkan simulasi sederhana logaritma diskrit (discrete_log) untuk nyari nilai pangkat dalam sistem modular.
+6. Jalankan programnya (python src/modular_math.py) buat menguji semua fungsi yang udah dibuat.
+7. Terakhir, screenshot hasil eksekusi dan simpan di folder screenshots/ sebagai bukti hasil praktikum.
 
 ---
 
@@ -64,8 +66,8 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 7. Jawaban Pertanyaan
-(Jawab pertanyaan diskusi yang diberikan pada modul.  
-- Pertanyaan 1: …  
+- Pertanyaan 1: Apa peran aritmatika modular dalam kriptografi modern?
+  
 - Pertanyaan 2: …  
 )
 ---
