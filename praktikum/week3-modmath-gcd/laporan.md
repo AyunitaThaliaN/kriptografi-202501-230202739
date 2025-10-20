@@ -1,9 +1,9 @@
 # Laporan Praktikum Kriptografi
-Minggu ke-: X  
-Topik: [judul praktikum]  
-Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
+Minggu ke-: 3 
+Topik: [Modular Matha (Aritmetika Modular, GCD,Bilangan Prima,Logaritma Diskrit)]  
+Nama: [Ayunita Thalia Nugraheni]  
+NIM: [230202739]  
+Kelas: [5IKRB]  
 
 ---
 
@@ -67,6 +67,7 @@ Hasil eksekusi program Caesar Cipher:
 
 ## 7. Jawaban Pertanyaan
 - Pertanyaan 1: Apa peran aritmatika modular dalam kriptografi modern?
+  
   
 - Pertanyaan 2: …  
 )
