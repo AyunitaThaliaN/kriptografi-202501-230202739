@@ -101,7 +101,7 @@ Namun, sistem ini juga memiliki kelemahan, yaitu distribusi kunci menjadi masala
 ---
 
 ## 8. Kesimpulan
-Praktikum ini memberikan pemahaman yang kuat tentang perkembangan kriptografi dari masa klasik hingga era modern, sekaligus mengenalkan konsep dasar keamanan informasi seperti CIA Triad (Confidentiality, Integrity, Availability). Selain itu, penggunaan Git dan GitHub sebagai lingkungan kerja juga telah berhasil dikonfigurasi dengan baik untuk mendukung dan mempermudah pelaksanaan praktikum berikutnya.
+Kriptosistem merupakan sistem keamanan informasi yang berfungsi melindungi data melalui proses enkripsi dan dekripsi. Sistem ini terdiri dari beberapa komponen utama, yaitu plaintext sebagai pesan asli, ciphertext sebagai pesan yang telah disandikan, algoritma enkripsi dan dekripsi sebagai metode pengubahan data, serta kunci (key) yang mengatur proses penyandian. Berdasarkan penggunaan kuncinya, kriptosistem dibagi menjadi dua jenis, yaitu simetris dan asimetris. Kriptosistem simetris menggunakan satu kunci yang sama untuk proses enkripsi dan dekripsi, sehingga lebih cepat namun memiliki risiko pada distribusi kunci. Sementara itu, kriptosistem asimetris menggunakan dua kunci berbeda, yaitu kunci publik dan kunci privat, yang lebih aman tetapi memerlukan waktu proses lebih lama. Secara keseluruhan, kriptosistem berperan penting dalam menjaga kerahasiaan, integritas, dan keamanan data dalam komunikasi digital modern.
 ---
 
 ## 9. Daftar Pustaka
