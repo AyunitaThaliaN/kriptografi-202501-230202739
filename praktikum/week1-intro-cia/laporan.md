@@ -1,7 +1,7 @@
 # Laporan Praktikum Kriptografi
 Minggu ke-: 1 
 Topik: CIA_intro.md  
-Nama: Ayunita 
+Nama: Ayunita Thalia Nugraheni 
 NIM: 230202739  
 Kelas: 5IKRB  
 
