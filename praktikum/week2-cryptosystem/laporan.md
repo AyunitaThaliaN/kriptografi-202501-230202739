@@ -42,9 +42,6 @@ Secara umum, kriptosistem terbagi menjadi dua kelompok, yaitu
 ---
 
 ## 5. Source Code
-# File: simple_crypto.py
-# Simulasi enkripsi dan dekripsi menggunakan Caesar Cipher
-
 def enkripsi_caesar(teks, shift):
     hasil = ""
     for char in teks:
