@@ -68,7 +68,7 @@ Perbandingan ini menjelaskan mengapa standar modern seperti AES menggunakan kunc
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](Screenshots/Eksekusi.png
+![Hasil Eksekusi](Screenshots/Eksekusi.png)
 ![Hasil Input](screenshots/input.png)
 ![Hasil Output](screenshots/output.png)
 )
