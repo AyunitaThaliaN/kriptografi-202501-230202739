@@ -48,18 +48,13 @@ def encrypt(text, key):
 
 ---
 
-## 6. Hasil dan Pembahasan
-(- Lampirkan screenshot hasil eksekusi program (taruh di folder `screenshots/`).  
-- Berikan tabel atau ringkasan hasil uji jika diperlukan.  
-- Jelaskan apakah hasil sesuai ekspektasi.  
-- Bahas error (jika ada) dan solusinya. 
+## 6. Hasil dan Pembahasan 
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
-)
+![Hasil Eksekusi](/praktikum/week5-cipher-klasik/Schreenshot/Caesar.py.png)
+![Hasil Eksekusi](/praktikum/week5-cipher-klasik/Schreenshot/Transpose.py.png)
+![Hasil Eksekusi](/praktikum/week5-cipher-klasik/Schreenshot/Vignere.py.png)
 
 ---
 
