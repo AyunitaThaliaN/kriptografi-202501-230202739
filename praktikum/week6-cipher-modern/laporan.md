@@ -48,9 +48,9 @@ Kriptografi modern berakar pada tiga pilar utama: DES (Data Encryption Standard)
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
+![Hasil Eksekusi](screenshots/aes.png)
+![Hasil Input](screenshots/des.png)
+![Hasil Output](screenshots/rsa.png)
 )
 
 ---
