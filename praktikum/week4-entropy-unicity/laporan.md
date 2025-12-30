@@ -108,5 +108,5 @@ commit abc12345
 Author: Nama Mahasiswa <email>
 Date:   2025-09-20
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+    week4-cryptosystem: Entropy & Uncity Distance(Evaluasi Kekuatan Kunci dan Brute Force) )
 ```
