@@ -97,5 +97,5 @@ commit abc12345
 Author: Ayunita Thalia Nugraheni  <email: nitaayu857@gmail.com>
 Date:   2025-09-20
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+    week3-cryptosystem: Modular Matha (Aritmetika Modular, GCD,Bilangan Prima,Logaritma Diskrit)
 ```
