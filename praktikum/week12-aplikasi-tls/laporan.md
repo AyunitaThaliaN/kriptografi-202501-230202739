@@ -32,7 +32,7 @@ Selain aspek teknis keamanan, penggunaan TLS juga berperan dalam meningkatkan ke
 - Python 3.11
 - Visual Studio Code / editor lain
 - Git dan akun GitHub
-- Library tambahan (hashlib dan time) )
+- Library tambahan (hashlib dan time) 
 
 ---
 
@@ -44,7 +44,7 @@ Contoh format:
 2. Simpan screenshot: (Pastikan file sertifikat_tokopedia.png dan sertifikat_shopee.png sudah ada di folder screenshots/)
 3. Tambahkan file ke git: git add .
 4. Commit: git commit -m "week12-aplikasi-tls"
-5. Push (Opsional): git push origin main
+5. Push (Opsional): git push origin main)
 ---
 
 ## 5. Source Code
@@ -121,5 +121,5 @@ commit abc12345
 Author: Ayunita Thalia Nugraheni <nitaayu857@gmail.com>
 Date:   2025-01-16
 
-    week12-aplikasi-tls
+    week12-aplikasi-tls)
 ```
