@@ -122,7 +122,7 @@ Contoh:
 Contoh:
 ```
 commit abc12345
-Author: Nama Mahasiswa <email>
+Author: Ayunita Thalia Nugraheni <nitaayu857@gmail.com>
 Date:   2025-01-16
 
     week10-pki
