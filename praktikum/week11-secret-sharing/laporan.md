@@ -28,7 +28,7 @@ Shamir’s Secret Sharing memungkinkan peningkatan keamanan dengan cara mendistr
 ## 3. Alat dan Bahan
 (- Python 3.10 
 - Visual Studio Code /sebagai ide
-- Git dan akun GitHub  
+- Git dan akun GitHub )  
 
 ---
 
@@ -40,7 +40,7 @@ Contoh format:
 - Menginstal library yang dibutuhkan menggunakan perintah pip install secretsharing.
 - Membuat file secret_sharing.py dan mengimplementasikan fungsi untuk membagi rahasia menjadi 5 bagian dengan threshold 3.
 - Menjalankan skrip untuk memverifikasi bahwa rahasia dapat pulih dengan 3 shares, namun gagal jika kurang dari itu.
-- Mendokumentasikan hasil eksekusi dalam bentuk screenshot.
+- Mendokumentasikan hasil eksekusi dalam bentuk screenshot. )
 
 
 ---
@@ -114,5 +114,5 @@ commit abc12345
 Author: Ayunita Thalia Nuhraheni <nitaayu857@gmail.com>
 Date:   2025-01-16
 
-    week11-secret-sharing
+    week11-secret-sharing )
 ```
