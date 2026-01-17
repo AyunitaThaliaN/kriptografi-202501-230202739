@@ -62,4 +62,4 @@ if __name__ == "__main__":
     
     print("\n=== Blockchain Valid ===")
     for block in my_chain.chain:
-        print(f"Index: {block.index}, Hash: {block.hash}, Data: {block.data}") ...
+        print(f"Index: {block.index}, Hash: {block.hash}, Data: {block.data}") 
