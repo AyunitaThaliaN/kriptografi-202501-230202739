@@ -32,7 +32,7 @@ Certificate Authority (CA) adalah lembaga terpercaya dalam PKI yang bertugas men
 (- Python 3.x  
 - Visual Studio Code / editor lain  
 - Git dan akun GitHub  
-- pip install cryptography pyopenssl
+- pip install cryptography pyopenssl)
 
 
 ---
@@ -63,9 +63,9 @@ def encrypt(text, key):
 
 ## 6. Hasil dan Pembahasan
 (- Lampirkan screenshot hasil eksekusi program (taruh di folder `screenshots/`).  
-- Berikan tabel atau ringkasan hasil uji jika diperlukan.  
-- Jelaskan apakah hasil sesuai ekspektasi.  
-- Bahas error (jika ada) dan solusinya. 
+- Berikan tabel atau ringkasan hasil uji jika diperlukan.
+- Jelaskan apakah hasil sesuai ekspektasi.
+- Bahas error (jika ada) dan solusinya.
 
 Hasil eksekusi program Caesar Cipher:
 
